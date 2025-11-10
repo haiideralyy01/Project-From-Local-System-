@@ -2,4 +2,4 @@
 
 This project vas created from local system.
 
-created by -> Haider Ali
+created by -> Haider Ali.
